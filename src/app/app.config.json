@@ -1,0 +1,14 @@
+{
+	"appname": "default access",
+	"scope": "DevCenterMessageConfigAdmin DevCenterWebHookAdmin FullAccess",
+	"clientid": "BEB21B61-F7EB-4A4F-8E7D-46D7B5D92B65",
+	"buyerid": "newbuyer",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
